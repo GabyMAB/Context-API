@@ -1,5 +1,5 @@
-import { createBrowserRouter } from "react-router-dom";
-import LayoutRoot from '../layout/LayoutRoot';
+import { createBrowserRouter } from "react-router-dom"; //funcion de react de las configuraciones de las rutas
+import LayoutRoot from '../layout/LayoutRoot'; //importaciones que son necesarias
 import LayoutPrivate from '../layout/LayoutPrivate';
 import Home from '../pages/Home';
 import Dashboard from '../pages/Dashboard';
